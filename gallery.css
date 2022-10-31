@@ -1,0 +1,78 @@
+.container {
+height: 1200px;
+width: 1340px;    
+}
+
+.exit {
+position: absolute;
+top: 10px;    
+}
+.text {
+position: relative;
+margin-top: 11px;
+padding-left: 580px;
+font-size: 35px;
+font-size: 35px;    
+}
+.header-line {
+background-image: url(../img/Line%203.png);
+position: absolute;
+ width: 1349px;
+ height: 5px;
+ left: 0px;
+ top: 60px;
+}
+
+.photo-1 {
+position: absolute;
+top: 65px;
+left: 0px;
+}
+
+.photo-2 {
+position: absolute;
+top: 65px;
+left: 779px;   
+}
+
+.photo-3 {
+position: absolute;
+top: 325px;
+left: 0px;      
+}
+
+.photo-4 {
+position: absolute;
+top: 325px;
+left: 740px;      
+}
+
+.photo-5{
+position: absolute;
+top: 675px;
+left: 0px; 
+}
+
+.photo-6{
+position: absolute;
+top: 675px;
+left: 640px;     
+}
+
+.photo-7 {
+position: absolute;
+top: 1025px;
+left: 640px;    
+}
+
+.photo-8{
+position: absolute;
+top: 1415px;
+left: 0px;    
+}    
+ 
+.photo-9 {
+position: absolute;
+top: 1425px;
+left: 640px;     
+}

@@ -1,0 +1,149 @@
+.container{
+    height: 800px;
+    width: 1340px;
+}
+
+.header-img {
+background-image: url('../img/bg.png');
+  width: 1349px;
+  height: 345px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  left: 0px;
+  border:5px; 
+  position: absolute;
+  left: 0px;
+  top: 43px;
+  
+} 
+
+.header-line {
+ background-image:url('../img/line%201.png');
+ position: absolute;
+ width: 1349px;
+ height: 5px;
+ left: 0px;
+ top: 40px;
+ 
+}
+
+.header-line-2 {
+background-image:url(../img/Line%202.png);
+ position: absolute;
+ width: 1349px;
+ height: 5px;
+ left: 0px;
+ top: 385px;    
+}
+
+.nav-iteam {
+display:inline-block;
+position: relative;
+bottom: 9px;
+padding-right: 45px;
+padding-left: 25px;
+text-decoration: none ;
+color: #000 !important;
+font-size: 34px;
+align-items: center;
+    
+}
+
+.nav {
+padding-bottom: -15px;
+}
+
+.sub-header-img {
+background-image: url(../img/img%202.png);
+position: absolute;
+height: 244px;
+width: 250px;
+left: 20px;
+top: 410px;
+border-radius: 198px;
+
+}
+
+.text {
+display: inline-block;
+padding-left: 280px;
+padding-top: 370px;
+padding-right: 15px;
+font-weight: 400;
+font-size: 30px; 
+font-family: 'Playfair Display', serif;
+}
+
+.sub-text {
+display: inline-block;
+font-weight: 400;
+font-size: 30px; 
+padding-top: 50px;
+padding-left: 25px;
+padding-right: 250px;
+font-family: 'Playfair Display', serif;
+}
+
+.sub-header-img2 {
+    background-image: url(../img/img%203.png);
+    background-repeat: no-repeat;
+   position: absolute;
+height: 244px;
+width: 250px;
+left: 1090px;
+top: 690px;
+border-radius: 198px;
+}
+
+.contacts-img {
+background-image: url(../img/img%204.png);
+width: 1349px;
+height: 970px;
+position: absolute;
+background-size: cover;
+background-repeat: no-repeat;
+margin-top: 60px;
+left: 0px;
+right: 0px;
+}
+
+.head-nav {
+display: inline-block;
+position: relative;
+padding-left: 450px;
+padding-top: 100px;
+font-weight: 410;
+font-size: 50px;
+color: white;
+font-family: 'Playfair Display', serif;
+}
+
+.sub-head-nav {
+display: inline-block;
+position: relative; 
+padding-top:20px;
+padding-left: 20px;
+font-size: 32px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+font-family: 'Playfair Display', serif;
+
+}
+
+.map {
+    position: relative;
+    padding-left: 60px;
+}
+
+.email {
+color:wheat;
+text-decoration:none
+}
+
+.telephone {
+color:papayawhip;
+text-decoration:none    
+}

@@ -1,0 +1,75 @@
+.container {
+height: 900px;
+width: 1340px;    
+}
+
+.exit {
+position: absolute;
+top: 10px;    
+}
+.text {
+position: relative;
+margin-top: 11px;
+padding-left: 510px;
+font-size: 35px;
+font-size: 35px;    
+}
+
+.header-line {
+background-image: url(../img/Line%203.png);
+position: absolute;
+ width: 1349px;
+ height: 5px;
+ left: 0px;
+ top: 60px;
+}
+
+
+.bakery-products {
+background-image: url(../img/Slice%201.png);
+position: relative;
+height: 121px;
+width: 1300px;
+left: 17px;
+top: 40px;
+}
+
+.sweet-pastries {
+background-image: url(../img/Slice%202.png);
+position: absolute;
+background-repeat: no-repeat;
+height: 121px;
+width: 1300px;
+margin-left: -1285px;
+top: 250px;
+}
+
+.cake {
+background-image: url(../img/Slice%203.png);
+position: absolute;
+background-repeat: no-repeat;
+height: 121px;
+width: 1300px;
+margin-left: -1285px;
+top: 410px;
+}
+
+.drinks {
+background-image: url(../img/Slice%204.png);
+position: absolute;
+background-repeat: no-repeat;
+height: 121px;
+width: 1300px;
+margin-left: -1285px;
+top: 570px;
+}
+
+.ice-cream {
+background-image: url(../img/Slice%205.png);
+position: absolute;
+background-repeat: no-repeat;
+height: 121px;
+width: 1300px;
+margin-left:-1285px;
+top: 730px;
+}
